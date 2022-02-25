@@ -1,0 +1,6 @@
+print(25 + 25 - (81 / 9))
+print(100 / 10 + 99)
+print(7 ** 4 + 9 ** 4)
+print(8 ** 2 - 5 ** 2)
+print(555 - 55 + 500 / 10)
+print( "my name is Ramzidin")
